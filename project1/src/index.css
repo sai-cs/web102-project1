@@ -1,0 +1,57 @@
+body {
+  background-image: url(https://static.vecteezy.com/system/resources/thumbnails/006/912/343/original/ramadan-background-animation-4k-loop-free-video.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:calc()
+  
+  
+}
+
+h1 {
+  color: rgb(0, 147, 125);
+}
+
+h2 {
+  color:#003b38
+}
+
+.layout {
+  display: flex;
+  flex-wrap: wrap; /* Allow dishes to wrap onto new rows */
+  justify-content:space-around /* Distribute dishes evenly across the container */
+}
+
+/* App.css */
+.dishes-container {
+  display: flex;
+  flex-wrap: wrap; /* Allow items to wrap to the next line */
+  justify-content: space-between; 
+}
+
+.dishes {
+  width: calc(33.33% - 20px); 
+  margin-bottom: 20px;
+  background-color: rgba(80, 255, 202, 0.1);
+  border: 2px solid #d69d00;
+  border-radius: 10px; 
+  overflow: hidden; 
+}
+
+.dishes img {
+  width: 100%; 
+}
+
+.recipe {
+  border: 2px solid #d69d00; 
+  border-radius: 20px; 
+  background-color: #008878; 
+  color: white; 
+  padding: 10px 20px;
+  cursor: pointer; 
+  margin-bottom: 10px;
+}
+
+.recipe:hover {
+  background-color: #47f3ea; 
+}
+
