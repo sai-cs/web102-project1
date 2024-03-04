@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Community Board
+# Web Development Project 1 - **Community Board**
 
 Submitted by: **Saad Islam**
 
@@ -28,7 +28,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='https://gyazo.com/191181bfebe5168d846e64fba3489265' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-https://gyazo.com/191181bfebe5168d846e64fba3489265
+https://gyazo.com/191181bfebe5168d846e64fba3489265 or https://imgur.com/d6uDEzR
 GIF created with gyazo 
 
 
