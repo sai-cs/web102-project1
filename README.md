@@ -26,8 +26,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[https://gyazo.com/191181bfebe5168d846e64fba3489265](https://i.imgur.com/d6uDEzR.mp4)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 https://gyazo.com/191181bfebe5168d846e64fba3489265 or https://imgur.com/d6uDEzR
 GIF created with gyazo 
 
